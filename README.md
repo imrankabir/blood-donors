@@ -1,4 +1,4 @@
-# Use can use it on the following link
+# You can use it on the following link
 
 Click to use [Blood Donors Club App](https://imrankabir.github.io/blood-donors-club)
 
