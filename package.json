@@ -1,0 +1,15 @@
+{
+  "name": "blood-donors-club",
+  "version": "1.0.0",
+  "description": "Click to use [Blood Donors Club App](https://imrankabir.github.io/blood-donors-club)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "track-visitor": "github:imrankabir/track-visitor"
+  }
+}
